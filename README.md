@@ -84,13 +84,13 @@ ESP-NOW range on the ESP8266 is limited by the physical environment. The current
 
 Planned extensions include multi-Sender support with device identification, real-time clock or NTP-based timestamps, a buzzer or mobile notification gateway, an OLED display for live status, runtime-configurable thresholds through a local web interface, and low-power deployment using battery and solar power with ESP8266 deep sleep.
 
+## Supervisor
+
+**Israr Akhter**  
+Slovak University of Technology in Bratislava
+
 ## Author
 
 **Abdul Rehman**  
 BS Computer Science  
 Allama Iqbal Open University (AIOU)
-
-## Supervisor
-
-**Israr Akhter**  
-Slovak University of Technology in Bratislava
