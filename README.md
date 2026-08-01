@@ -86,10 +86,11 @@ Planned extensions include multi-Sender support with device identification, real
 
 ## Author
 
-Abdul Rehman
-BSCS, Allama Iqbal Open University
+**Abdul Rehman**  
+BS Computer Science  
+Allama Iqbal Open University (AIOU)
 
-## Supervisor 
+## Supervisor
 
-Israr Akhter
-Slovak Technical University Bratislava
+**Israr Akhter**  
+Slovak University of Technology in Bratislava
